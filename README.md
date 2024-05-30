@@ -1,6 +1,6 @@
-# Hi! I'm Juan Guerrero
+Juan Guerrero
 
-# 💫 About Me:
+## 💫 About Me:
 I'm currently learning Java and Python at UTN<br>
 
 
