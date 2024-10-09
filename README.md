@@ -11,6 +11,8 @@ I am a passionate backend developer focused on building scalable and high-perfor
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -18,8 +20,4 @@ I am a passionate backend developer focused on building scalable and high-perfor
 ## 📊 GitHub Stats
 ![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjohnn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Juan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gjohnn&theme=tokyonight&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjohnn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gjohnn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjohnn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact
