@@ -1,7 +1,7 @@
 # Juan Guerrero - Backend Developer
 
 ## 💫 About Me
-I am a passionate backend developer with expertise in building scalable and efficient systems. My experience spans across multiple programming languages and frameworks, allowing me to tackle a wide range of development challenges. I thrive on continuous learning and staying up-to-date with the latest trends and technologies in the industry.
+I am a passionate backend developer focused on building scalable and high-performance systems. My expertise spans multiple programming languages and frameworks, which helps me tackle a wide range of development challenges with efficiency. I am committed to continuous learning and staying current with the latest technologies and industry trends to deliver the best possible solutions.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-guerrero-0206a4214) 
@@ -9,8 +9,8 @@ I am a passionate backend developer with expertise in building scalable and effi
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
