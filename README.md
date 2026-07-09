@@ -27,10 +27,6 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
