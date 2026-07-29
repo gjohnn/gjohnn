@@ -10,10 +10,8 @@ Passionate about **scalable backend solutions**, optimized queries, and solid de
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-juansgb316%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juansgb316@outlook.com)
+[![Email](https://img.shields.io/badge/Email-contact%40juanguerrero.dev-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@juanguerrero.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-guerre3168)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g__john/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/g__john)
 
 </div>
 
@@ -43,8 +41,8 @@ Passionate about **scalable backend solutions**, optimized queries, and solid de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gjohnn&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gjohnn&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gjohnn&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gjohnn&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="165" alt="Top languages"/>
 
 <br/>
 
