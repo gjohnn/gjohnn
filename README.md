@@ -80,7 +80,7 @@ Backend developer focused on **system design** and **scalable architectures**. I
 | Role | Company | Period |
 | :--- | :--- | :--- |
 | **Back End Developer** | [Idus Software](https://idus.com.ar) | Dec 2025 – Present |
-| **Tech Lead Manager** | [Apequa](https://apequa.com) | Aug 2024 – Present |
+| **Tech Lead Manager** | [Apequa](https://apequa.com) | Aug 2024 – Jun 2026 |
 | **Full Stack Developer** *(backend-focused)* | Tecnología Activa | Feb 2025 – Jul 2025 |
 | **Backend Developer** | IT Hotbed · Quinto Impacto | 2024 |
 | **Solo Developer** | Alquileres Costeros *(discontinued)* | 2024 |
