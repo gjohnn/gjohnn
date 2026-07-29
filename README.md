@@ -46,7 +46,9 @@ Passionate about **scalable backend solutions**, optimized queries, and solid de
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=gjohnn&theme=dracula&hide_border=false" height="165" alt="GitHub streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-three.vercel.app/?user=gjohnn&theme=dracula&hide_border=false" height="165" alt="GitHub streak"/>
+</a>
 
 </div>
 
