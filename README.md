@@ -14,7 +14,7 @@ Backend developer focused on **system design** and **scalable architectures**. I
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-juanguerrero.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juanguerrero.dev)
 [![Projects](https://img.shields.io/badge/Proyectos-Ver_trabajo-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://juanguerrero.dev/projects)
-[![CV](https://img.shields.io/badge/CV-Descargar_PDF-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://juanguerrero.dev/JuanGuerreroCv_Public.pdf)
+[![CV](https://img.shields.io/badge/CV-Ver_CV-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.juanguerrero.dev/cv)
 [![Email](https://img.shields.io/badge/Email-contact%40juanguerrero.dev-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@juanguerrero.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-guerrero)
 [![GitHub](https://img.shields.io/badge/GitHub-gjohnn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gjohnn)
