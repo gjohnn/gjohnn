@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gjohnn&color=blueviolet&style=for-the-badge&label=Visitas" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gjohnn&color=blueviolet&style=for-the-badge&label=Views" alt="Profile views"/>
 
 # Hi 👋 I'm Juan Guerrero
 
@@ -13,8 +13,8 @@ Backend developer focused on **system design** and **scalable architectures**. I
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-juanguerrero.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juanguerrero.dev)
-[![Projects](https://img.shields.io/badge/Proyectos-Ver_trabajo-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://juanguerrero.dev/projects)
-[![CV](https://img.shields.io/badge/CV-Ver_CV-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.juanguerrero.dev/cv)
+[![Projects](https://img.shields.io/badge/Projects-View_work-0EA5E9?style=for-the-badge&logo=astro&logoColor=white)](https://juanguerrero.dev/projects)
+[![CV](https://img.shields.io/badge/CV-View_CV-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.juanguerrero.dev/cv)
 [![Email](https://img.shields.io/badge/Email-contact%40juanguerrero.dev-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contact@juanguerrero.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-guerrero)
 [![GitHub](https://img.shields.io/badge/GitHub-gjohnn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gjohnn)
@@ -23,9 +23,9 @@ Backend developer focused on **system design** and **scalable architectures**. I
 
 ---
 
-### En números
+### At a glance
 
-| 3+ años de experiencia | 10+ proyectos completados | Especialización backend & cloud |
+| 3+ years of experience | 10+ completed projects | Backend & cloud focus |
 | :---: | :---: | :---: |
 
 ---
@@ -33,7 +33,7 @@ Backend developer focused on **system design** and **scalable architectures**. I
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>Desarrollo backend</b></summary>
+<summary><b>Backend development</b></summary>
 <br/>
 
 [![Skills Backend](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,ts,php&perline=6&theme=dark)](https://skillicons.dev)
@@ -41,7 +41,7 @@ Backend developer focused on **system design** and **scalable architectures**. I
 </details>
 
 <details open>
-<summary><b>Bases de datos, DevOps & cloud</b></summary>
+<summary><b>Databases, DevOps & cloud</b></summary>
 <br/>
 
 [![Skills Data & DevOps](https://skillicons.dev/icons?i=postgres,mysql,supabase,redis,docker,aws,nginx,git,githubactions,powershell,linux&perline=6&theme=dark)](https://skillicons.dev)
@@ -49,52 +49,52 @@ Backend developer focused on **system design** and **scalable architectures**. I
 </details>
 
 <details>
-<summary><b>Frontend, herramientas & más</b></summary>
+<summary><b>Frontend, tools & more</b></summary>
 <br/>
 
 [![Skills Frontend & Tools](https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel,postman,python,laravel&perline=7&theme=dark)](https://skillicons.dev)
 
-**Seguridad:** JWT · OAuth2 · session management  
-**Arquitectura:** microservices · event-driven · caching · pagination strategies  
-**Equipo:** Git · Agile · Postman · Jira · Trello
+**Security:** JWT · OAuth2 · session management  
+**Architecture:** microservices · event-driven · caching · pagination strategies  
+**Collaboration:** Git · Agile · Postman · Jira · Trello
 
 </details>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Descripción | Stack | Enlace |
+| Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Gasto Cero** ⭐ | Finanzas personales con seguimiento en tiempo real | React · TypeScript · Tailwind · Vercel | [Live](https://gasto-cero.vercel.app/) |
-| **.NET API Project** | Plantilla enterprise: Clean Architecture, EF Core, JWT, PostgreSQL | C# 12 · .NET 8 · PostgreSQL | [Repo](https://github.com/gjohnn/base_projects_dotnet8) |
-| **My App Installer** | Instalación por lotes de apps en Windows con Winget | PowerShell 7 · Winget | [Repo](https://github.com/gjohnn/my-app-installer) |
-| **AlquiGes** | Gestión de alquileres, clientes e informes | Next.js · Supabase · TypeScript | Privado |
+| **Gasto Cero** ⭐ | Personal finance app with real-time expense & income tracking | React · TypeScript · Tailwind · Vercel | [Live](https://gasto-cero.vercel.app/) |
+| **.NET API Project** | Enterprise backend template: Clean Architecture, EF Core, JWT, PostgreSQL | C# 12 · .NET 8 · PostgreSQL | [Repo](https://github.com/gjohnn/base_projects_dotnet8) |
+| **My App Installer** | Batch Windows app installs via Winget | PowerShell 7 · Winget | [Repo](https://github.com/gjohnn/my-app-installer) |
+| **AlquiGes** | Rental management: clients, inventory & financial reports | Next.js · Supabase · TypeScript | Private |
 
-➡️ [Más proyectos en el portfolio](https://juanguerrero.dev/projects) · [GitHub](https://github.com/gjohnn)
+➡️ [More on my portfolio](https://juanguerrero.dev/projects) · [GitHub](https://github.com/gjohnn)
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
-| Rol | Empresa | Período |
+| Role | Company | Period |
 | :--- | :--- | :--- |
-| **Desarrollador Back End** | [Idus Software](https://idus.com.ar) | Dic 2025 – Presente |
-| **Tech Lead Manager** | [Apequa](https://apequa.com) | Ago 2024 – Presente |
-| **Desarrollador Full Stack** *(backend)* | Tecnología Activa | Feb 2025 – Jul 2025 |
-| **Desarrollador Backend** | IT Hotbed · Quinto Impacto | 2024 |
-| **Desarrollador solo** | Alquileres Costeros *(discontinuado)* | 2024 |
+| **Back End Developer** | [Idus Software](https://idus.com.ar) | Dec 2025 – Present |
+| **Tech Lead Manager** | [Apequa](https://apequa.com) | Aug 2024 – Present |
+| **Full Stack Developer** *(backend-focused)* | Tecnología Activa | Feb 2025 – Jul 2025 |
+| **Backend Developer** | IT Hotbed · Quinto Impacto | 2024 |
+| **Solo Developer** | Alquileres Costeros *(discontinued)* | 2024 |
 
-➡️ [Detalle completo](https://juanguerrero.dev/experience)
+➡️ [Full details](https://juanguerrero.dev/experience)
 
 ---
 
-## 🎓 Formación & certificaciones
+## 🎓 Education & certifications
 
-- **Tecnicatura en Desarrollo de Software** — UTN *(Ago 2023 – Sep 2025)*  
-- **Administrador GNU/Linux** — Certificación profesional *(2024)*  
-- **Escuela con orientación en TI** — Escuela de Comercio Martín Zapata *(2017 – 2021)*  
-- **Inglés B2** — Colegio de Lenguas Extranjeras *(2016 – 2020)*
+- **Associate Degree in Software Development** — UTN *(Aug 2023 – Sep 2025)*  
+- **GNU/Linux Administrator** — Professional certification *(2024)*  
+- **High school with IT track** — Escuela de Comercio Martín Zapata *(2017 – 2021)*  
+- **English B2** — Colegio de Lenguas Extranjeras *(2016 – 2020)*
 
 ---
 
@@ -127,9 +127,9 @@ Backend developer focused on **system design** and **scalable architectures**. I
 
 <div align="center">
 
-### ¿Listo para trabajar juntos?
+### Ready to work together?
 
-[![Contacto](https://img.shields.io/badge/Iniciar_proyecto-Contacto-2563EB?style=for-the-badge)](https://juanguerrero.dev/contact)
+[![Contact](https://img.shields.io/badge/Start_a_project-Contact-2563EB?style=for-the-badge)](https://juanguerrero.dev/contact)
 
 <br/>
 
